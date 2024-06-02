@@ -3,7 +3,7 @@ In this project I have learnt some topics like:-
 2. Spring MVC
 3. Model
 4. Spring MVC Form Data Binding.
-5. Spring MVC Validation.
+5. Spring MVC Form Validation.
    
 Used some Annotations :-
 1. @HttpServletRequest
